@@ -1,8 +1,8 @@
-# Test Utilities for Gottlieb System 80/80A CPU Boards
+# Test Utilities for Gottlieb System 80/80A/80B CPU Boards
 
 These sketches allow an [Arduino Mega 2560](https://store.arduino.cc/usa/mega-2560-r3) to be connected to the CPU board for Gottlieb System 80 pinball machines to diagnose boot issues.
 
-These have been tested with an Ice Fever (System 80A) machine. Your mileage may vary with others.
+These have been tested with an Ice Fever (System 80A) and an Arena (System 80B). Your mileage may vary with others.
 
 
 ## gottlieb\_sys80\_test.ino
