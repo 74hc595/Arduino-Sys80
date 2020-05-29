@@ -11,8 +11,8 @@ Remove the CPU (U1) and connect the Arduino to its socket using jumper wires. (T
 
 Provides the following utilities, which can be accessed through the serial terminal:
 
-- dump U2 ROM
-- dump U3 ROM
+- dump U2 ROM (System 80B: lower half of the piggyback ROM)
+- dump U3 ROM (System 80B: upper half of the piggyback ROM)
 - dump game PROM
 - test U4 RIOT RAM
 - test U5 RIOT RAM
